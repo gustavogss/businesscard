@@ -56,6 +56,15 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@id/tv_phone"
                 tools:text="email"/>
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/tv_cargo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:layout_marginTop="4dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tv_email"
+                tools:text="cargo"/>
 
             <com.google.android.material.textview.MaterialTextView
                 android:id="@+id/tv_empresa"

@@ -29,6 +29,7 @@ class AddBusinessCardActivity : AppCompatActivity() {
                 empresa = binding.tilEmpresa.editText?.text.toString(),
                 telefone = binding.tilTelefone.editText?.text.toString(),
                 email = binding.tilEmail.editText?.text.toString(),
+                cargo = binding.tilCargo.editText?.text.toString(),
                 fundoPersonalizado = binding.tilCor.editText?.text.toString()
             )
             mainViewModel.insert(businessCard)
