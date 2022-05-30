@@ -7,7 +7,7 @@ Aplicativo para criar, personalizar e compartilhar cartões de visita desenvolvi
 - Cardviews
 - ListAdapter
 
-### Como utilizar 🏃
+### Como utilizar 🔌
 - Clone o repositório
 - Instale o [Android Studio](https://developer.android.com/studio)
 - Abra o repositório dentro do Android Studio
