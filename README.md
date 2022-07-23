@@ -16,3 +16,6 @@ Aplicativo para criar, personalizar e compartilhar cartões de visita desenvolvi
 - Habilite a função desenvolvedor de seu celular
 - Assim que o Android reconhecer seu celular, basta executar o projeto na seta verde na barra de tarefas
 - Maiores informações como executar via dispositivo [clique aqui](https://www.youtube.com/watch?v=aRFmmByY7k8)
+
+### Aplicativo :iphone:
+![Aplicativo](https://gustavosouza.dev.br/wp-content/uploads/2021/12/8.png)
